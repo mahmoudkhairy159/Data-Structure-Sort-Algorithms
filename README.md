@@ -32,7 +32,7 @@ Merge Sort is a divide-and-conquer algorithm that recursively splits the array i
 ## Getting Started
 
 ### Prerequisites
-You need to have a basic setup of any language (such as Python, JavaScript, PHP, or C++) depending on which language you are using for implementing the algorithms.
+You need to have a basic setup of  C++ 
 
 ### Running the Application
 To run this application:
